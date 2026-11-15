@@ -63,7 +63,7 @@ public class schedule extends JFrame{
 		lb1.setText(sname+" → "+ename);
 		lb1.setFont(lb1.getFont().deriveFont((float) 15.0));
 		
-		bt1=new JButton("노션변경") {
+		bt1=new JButton("시간 변경") {
 			@Override
 			protected void paintComponent(Graphics g) {
 				// TODO Auto-generated method stub
