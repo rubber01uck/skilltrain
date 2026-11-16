@@ -114,7 +114,6 @@ public class times extends JDialog {
         sd.setBounds(235, 48, 90, 50);
         p1.add(sd);
 
-        
         JPanel p2=new p();
         p2.setOpaque(false);
         p2.setLayout(null);
